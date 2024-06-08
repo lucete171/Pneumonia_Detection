@@ -1,0 +1,93 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container {
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    max-width: 800px;
+    width: 100%;
+}
+
+h1 {
+    margin-bottom: 20px;
+}
+
+.images {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+
+.image-container {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.image-container img {
+    max-width: 200px;
+    height: 200px;
+    margin-bottom: 10px;
+}
+
+.image-container input {
+    width: 100px;
+}
+
+.explanation{
+	margin-bottom: 60px;
+}
+
+.explanation p{
+	font-size: 12px;
+}
+
+.file-input {
+    margin-bottom: 20px;
+}
+
+.selected-image img {
+    max-width: 600px;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+    margin-bottom: 20px;
+}
+
+button {
+    background-color: #007BFF;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+button:hover {
+    background-color: #0056b3;
+}
+
+.result {
+    margin-top: 20px;
+}
+
+.result h2 {
+    margin-bottom: 10px;
+}
+
+.result p {
+    font-size: 18px;
+    color: #333;
+}
