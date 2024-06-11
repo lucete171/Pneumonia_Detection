@@ -13,6 +13,11 @@ Nam Gibeom: Preparing for presentations, creating documents, creating servers
 # Project Duration
 2024.06.05 ~ 2024.06.09
 
+# Data
+Kaggle
+
+https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia
+
 # Language
 - python(google colab)
 - javascript
