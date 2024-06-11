@@ -40,7 +40,7 @@ Kim Seonghak, Nam Gibeom
 - pickle
 
 # Result
-keras model evaluate Accuracy
+KERAS model evaluate Accuracy
 
 loss: 0.7128 - accuracy: 0.7965
 
