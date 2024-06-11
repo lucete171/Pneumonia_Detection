@@ -41,6 +41,7 @@ Kim Seonghak, Nam Gibeom
 
 # Result
 keras model evaluate Accuracy
+
 loss: 0.7128 - accuracy: 0.7965
 
 # Confusion Matrix
