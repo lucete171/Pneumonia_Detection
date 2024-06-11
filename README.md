@@ -19,17 +19,23 @@ Kim Seonghak, Nam Gibeom
 (Data Manipulation & Analysis)
 - numpy
 - pandas
+  
 (Data Visualization)
 - matplotlib
+
 (Mathematical Functions)
 - math
+  
 (System Operations)
 - os
+  
 (Machine Learning & Deep Learning)
 - tensorflow
 - sklearn
+  
 (Computer Vision)
 - cv2
+  
 (Serialization)
 - pickle
 
