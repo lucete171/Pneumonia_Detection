@@ -6,7 +6,9 @@ We intend to develop a program to determine pneumonia through a deep learning (C
 The normal chest X-ray (left panel) depicts clear lungs without any areas of abnormal opacification in the image. Bacterial pneumonia (middle) typically exhibits a focal lobar consolidation, in this case in the right upper lobe (white arrows), whereas viral pneumonia (right) manifests with a more diffuse ‘‘interstitial’’ pattern in both lungs.
 
 # Participants
-Kim Seonghak, Nam Gibeom
+Kim Seonghak: Image preprocessing, model generation, model training, model improvement
+
+Nam Gibeom: Preparing for presentations, creating documents, creating servers
 
 # Project Duration
 2024.06.05 ~ 2024.06.09
