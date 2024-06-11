@@ -1,5 +1,5 @@
 # Pneumonia_Detection
-We intend to develop a program to determine pneumonia through a deep learning (CNN) model by inputting a chest x-ray image.
+We intend to develop a program to determine pneumonia through a deep learning (CNN) model by inputting a chest x-ray image. The primary classification was conducted with a focus on confirming the presence or absence of infection of the disease rather than the type of infection of pneumonia.
 
 ![스크린샷 2024-06-11 155323](https://github.com/lucete171/Pneumonia_Detection/assets/80573129/3d6ecaa6-0693-4097-a923-a974e6e153f0)
 
